@@ -15,4 +15,4 @@ while secret != guess:
     guess=int(input('Veuillez entrer un nombre entre 0 et 100 : '))
     attempts+=1
 print(f'Bravo, vous avez trouvé le nombre secret en {attempts} essai(s)')
-#hjiheo
+
